@@ -1,0 +1,320 @@
+[
+    {
+        "topicUrl": "https://github.com/topics/vim",
+        "projects": [
+            {
+                "projectUrl": "https://github.com/neovim/neovim",
+                "issues": [
+                    {
+                        "issueHeading": "A feature that may be worth learning about cursorline highlight",
+                        "issueUrl": "https://github.com/neovim/neovim/issues/14136"
+                    },
+                    {
+                        "issueHeading": "LSP popup does not go away after navigating to definition in another file",
+                        "issueUrl": "https://github.com/neovim/neovim/issues/14135"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/junegunn/fzf",
+                "issues": [
+                    {
+                        "issueHeading": "fzf's window has only half of the border in other encoding",
+                        "issueUrl": "https://github.com/junegunn/fzf/issues/2389"
+                    },
+                    {
+                        "issueHeading": "feature request: see context by marking an item and jumping to marked item in the full result list",
+                        "issueUrl": "https://github.com/junegunn/fzf/issues/2388"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/vim/vim",
+                "issues": [
+                    {
+                        "issueHeading": "Operator-pending default mappings ignore escaped characters",
+                        "issueUrl": "https://github.com/vim/vim/issues/7956"
+                    },
+                    {
+                        "issueHeading": "Buggy foldclose in 'fillchars' option, for some characters",
+                        "issueUrl": "https://github.com/vim/vim/issues/7955"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/ycm-core/YouCompleteMe",
+                "issues": [
+                    {
+                        "issueHeading": "YCM install.py Error about libclang extraction",
+                        "issueUrl": "https://github.com/ycm-core/YouCompleteMe/issues/3856"
+                    },
+                    {
+                        "issueHeading": "Signature didn't disapper if the next input is Enter with plugin pear-tree enabled",
+                        "issueUrl": "https://github.com/ycm-core/YouCompleteMe/issues/3842"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/junegunn/vim-plug",
+                "issues": [
+                    {
+                        "issueHeading": "Failed to connect to github.com port 443: Timeout",
+                        "issueUrl": "https://github.com/junegunn/vim-plug/issues/1076"
+                    },
+                    {
+                        "issueHeading": "Vim plug conditional load behavior difference",
+                        "issueUrl": "https://github.com/junegunn/vim-plug/issues/1068"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/syl20bnr/spacemacs",
+                "issues": [
+                    {
+                        "issueHeading": "Eager macro-expansion failure/ smartparens issue",
+                        "issueUrl": "https://github.com/syl20bnr/spacemacs/issues/14478"
+                    },
+                    {
+                        "issueHeading": "Emacs hangs when started in daemon mode",
+                        "issueUrl": "https://github.com/syl20bnr/spacemacs/issues/14477"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/LeCoupa/awesome-cheatsheets",
+                "issues": [
+                    {
+                        "issueHeading": "Add mongoose and/or mongodb",
+                        "issueUrl": "https://github.com/LeCoupa/awesome-cheatsheets/issues/166"
+                    },
+                    {
+                        "issueHeading": "Cannot use 20 (type int) as type *int in assignment",
+                        "issueUrl": "https://github.com/LeCoupa/awesome-cheatsheets/issues/165"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/SpaceVim/SpaceVim",
+                "issues": [
+                    {
+                        "issueHeading": "add to runner auto focus/quick close ",
+                        "issueUrl": "https://github.com/SpaceVim/SpaceVim/issues/4130"
+                    },
+                    {
+                        "issueHeading": "use file instead of stdin on python.vim",
+                        "issueUrl": "https://github.com/SpaceVim/SpaceVim/issues/4128"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://github.com/topics/qt",
+        "projects": [
+            {
+                "projectUrl": "https://github.com/Swordfish90/cool-retro-term",
+                "issues": [
+                    {
+                        "issueHeading": "Supporting several languages on Pantheon DE",
+                        "issueUrl": "https://github.com/Swordfish90/cool-retro-term/issues/644"
+                    },
+                    {
+                        "issueHeading": "Getting Older Debian Errors In Devuan Beowulf \"QQmlApplicationEngine failed to load component\"",
+                        "issueUrl": "https://github.com/Swordfish90/cool-retro-term/issues/643"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/flameshot-org/flameshot",
+                "issues": [
+                    {
+                        "issueHeading": "Skitch-like catalogue",
+                        "issueUrl": "https://github.com/flameshot-org/flameshot/issues/1469"
+                    },
+                    {
+                        "issueHeading": "flameshot gui --raw doesn't make selection on enter",
+                        "issueUrl": "https://github.com/flameshot-org/flameshot/issues/1468"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/SFTtech/openage",
+                "issues": [
+                    {
+                        "issueHeading": "Speed up converter texture packing with Cython",
+                        "issueUrl": "https://github.com/SFTtech/openage/issues/1371"
+                    },
+                    {
+                        "issueHeading": "Use cython fused types (templated functions) to remove redundancy from smp.pyx and smx.pyx",
+                        "issueUrl": "https://github.com/SFTtech/openage/issues/1370"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/therecipe/qt",
+                "issues": [
+                    {
+                        "issueHeading": "qtmoc&&qtdeploy work fine, but qtmoc&&go run . failed",
+                        "issueUrl": "https://github.com/therecipe/qt/issues/1221"
+                    },
+                    {
+                        "issueHeading": "How to embed rcc file to use with golang?",
+                        "issueUrl": "https://github.com/therecipe/qt/issues/1220"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/mapeditor/tiled",
+                "issues": [
+                    {
+                        "issueHeading": "Allow Tiled to open \".tiled-project\" files",
+                        "issueUrl": "https://github.com/mapeditor/tiled/issues/3000"
+                    },
+                    {
+                        "issueHeading": "Selection tool selects objects that are out of the selection rectangle",
+                        "issueUrl": "https://github.com/mapeditor/tiled/issues/2999"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/jopohl/urh",
+                "issues": [
+                    {
+                        "issueHeading": "Support for DPQSK Modulation",
+                        "issueUrl": "https://github.com/jopohl/urh/issues/839"
+                    },
+                    {
+                        "issueHeading": "AM-FSK (AM/FSK) interpretation and generation",
+                        "issueUrl": "https://github.com/jopohl/urh/issues/806"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/qutebrowser/qutebrowser",
+                "issues": [
+                    {
+                        "issueHeading": "Page loading indicator stuck at 0% after clicking link",
+                        "issueUrl": "https://github.com/qutebrowser/qutebrowser/issues/6276"
+                    },
+                    {
+                        "issueHeading": "ttf-google-fonts needed for proper rendering of some fonts on some websites",
+                        "issueUrl": "https://github.com/qutebrowser/qutebrowser/issues/6275"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/nodegui/nodegui",
+                "issues": [
+                    {
+                        "issueHeading": "Unable to run under WSL2 with XLaunch",
+                        "issueUrl": "https://github.com/nodegui/nodegui/issues/823"
+                    },
+                    {
+                        "issueHeading": "Add QGraphicsView and QGraphicsScene classes",
+                        "issueUrl": "https://github.com/nodegui/nodegui/issues/822"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://github.com/topics/vagrant",
+        "projects": [
+            {
+                "projectUrl": "https://github.com/hashicorp/vagrant",
+                "issues": [
+                    {
+                        "issueHeading": "Should all provisioners destroy machines on any error? or only specific ones",
+                        "issueUrl": "https://github.com/hashicorp/vagrant/issues/12233"
+                    },
+                    {
+                        "issueHeading": "mismatched guest ip address reported for hyperv vm with multiple network interfaces",
+                        "issueUrl": "https://github.com/hashicorp/vagrant/issues/12231"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/Varying-Vagrant-Vagrants/VVV",
+                "issues": [
+                    {
+                        "issueHeading": "Default Nginx config in new sites",
+                        "issueUrl": "https://github.com/Varying-Vagrant-Vagrants/VVV/issues/2388"
+                    },
+                    {
+                        "issueHeading": "Run command in site folders via config",
+                        "issueUrl": "https://github.com/Varying-Vagrant-Vagrants/VVV/issues/2387"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/geerlingguy/ansible-for-devops",
+                "issues": [
+                    {
+                        "issueHeading": "Anyone try to run molecule as docker container",
+                        "issueUrl": "https://github.com/geerlingguy/ansible-for-devops/issues/390"
+                    },
+                    {
+                        "issueHeading": "unallowed value docker",
+                        "issueUrl": "https://github.com/geerlingguy/ansible-for-devops/issues/388"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/chef/bento",
+                "issues": [
+                    {
+                        "issueHeading": "CentOS Stream build failing",
+                        "issueUrl": "https://github.com/chef/bento/issues/1341"
+                    },
+                    {
+                        "issueHeading": "Problem installing SLES 15 SP1",
+                        "issueUrl": "https://github.com/chef/bento/issues/1340"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/clong/DetectionLab",
+                "issues": [
+                    {
+                        "issueHeading": "Ansible: This script contains malicious content",
+                        "issueUrl": "https://github.com/clong/DetectionLab/issues/623"
+                    },
+                    {
+                        "issueHeading": "Deploying detection lab on an external hard drive",
+                        "issueUrl": "https://github.com/clong/DetectionLab/issues/620"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/ServiceStack/redis-windows",
+                "issues": []
+            },
+            {
+                "projectUrl": "https://github.com/roots/trellis",
+                "issues": [
+                    {
+                        "issueHeading": "PHP CLI memory limit setting",
+                        "issueUrl": "https://github.com/roots/trellis/issues/1277"
+                    },
+                    {
+                        "issueHeading": "Python 3 Incompatibility?",
+                        "issueUrl": "https://github.com/roots/trellis/issues/1273"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/ianmiell/shutit",
+                "issues": [
+                    {
+                        "issueHeading": "if i run session.send('top',echo=True,check_exit=True) in notebook how to exit?",
+                        "issueUrl": "https://github.com/ianmiell/shutit/issues/329"
+                    },
+                    {
+                        "issueHeading": "send_and_return_status bug",
+                        "issueUrl": "https://github.com/ianmiell/shutit/issues/323"
+                    }
+                ]
+            }
+        ]
+    }
+]
